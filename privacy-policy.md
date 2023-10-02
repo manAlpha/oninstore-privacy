@@ -2,54 +2,33 @@
 
 Last Updated: [22-10-2024]
 
+
 **1. Introduction**
 
-Welcome to Oninstore! At Oninstore, we value your privacy and strive to protect your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you use our website and services.
+Welcome to Oninstore, your trusted shopping companion. At Oninstore, we prioritize your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines how we handle data when you use our app.
 
-**2. Information We Collect**
+**2. Information We Don't Collect**
 
-We may collect the following types of information:
+We want you to know that Oninstore does not collect any personal information from you. We don't ask for your name, email address, phone number, or any other identifying data.
 
-- **Personal Information**: When you create an account or make a purchase, we may collect personal information such as your name, email address, shipping address, and payment information.
+**3. No Payment Functionality**
 
-- **Usage Information**: We collect information about how you interact with our website, including your browsing history, the pages you view, and your device information.
+Please be aware that Oninstore does not process payments. We don't request or store payment information, such as credit card details or banking information.
 
-**3. How We Use Your Information**
+**4. Usage Information**
 
-We use your information for the following purposes:
-
-- **Providing Services**: To process your orders, provide customer support, and improve our services.
-
-- **Communication**: To send you order confirmations, updates, promotions, and newsletters if you opt-in.
-
-- **Analytics**: To analyze app usage, monitor trends, and improve our app's functionality.
-
-- **Legal Compliance**: To comply with legal requirements and protect our rights and interests.
-
-**4. Data Sharing**
-
-We may share your information with:
-
-- **Service Providers**: We may share your information with third-party service providers who help us with app operation, payment processing, and other services.
-
-- **Legal Authorities**: We may disclose your information when required by law or to protect our legal rights.
+While we don't collect personal information, we may collect anonymous usage data to improve your experience and app performance. This data does not identify you personally.
 
 **5. Data Security**
 
-We take data security seriously. We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, and destruction.
+Although we don't collect personal data, we still take data security seriously. We employ standard security measures to protect any non-personal data you share with us.
 
-**6. Your Rights**
+**6. Changes to This Policy**
 
-You have the right to:
+This Privacy Policy may be updated to reflect changes in our practices or for legal reasons. Any significant updates will be communicated within the app.
 
-- Access, correct, or delete your personal information.
-- Object to the processing of your data.
-- Withdraw consent for marketing communications.
+**7. Contact Us**
 
-**7. Changes to This Privacy Policy**
-
-We may update this Privacy Policy to reflect changes in our practices or for legal reasons. We will notify you of any significant changes.
-
-**8. Contact Us**
-
-If you have questions or concerns about your privacy or this Privacy Policy, please contact us at [4iamalpha@gmail.com].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+Contact Information:
+Email: 4iamalpha@gmail.com
