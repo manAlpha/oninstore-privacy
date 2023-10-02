@@ -1,6 +1,6 @@
 **Privacy Policy for Oninstore**
 
-Last Updated: [22-10-2024]
+Last Updated: [02-10-2022]
 
 
 **1. Introduction**
