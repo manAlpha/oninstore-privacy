@@ -1,34 +1,44 @@
-**Privacy Policy for Oninstore**
+Effective Date: June 15, 2025
 
-Last Updated: [02-10-2022]
+This Privacy Policy explains how Oninstore collects, uses, and protects your information.
 
+1. What We Collect
+- Personal Information: Name, email, phone number, address
+- Transaction Data: Purchases, delivery details, payment method (handled by third-party processors)
+- Device Data: IP address, app version, device ID
+- Usage Data: Clicks, navigation, interaction with features
 
-**1. Introduction**
+2. How We Use Your Information
+We use your data to:
+- Process orders and payments
+- Deliver products and manage logistics
+- Customize user experience
+- Communicate with you (order updates, promotions)
+- Improve and secure the platform
 
-Welcome to Oninstore, your trusted shopping companion. At Oninstore, we prioritize your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines how we handle data when you use our app.
+3. Third-Party Services
+We use third-party providers (e.g. payment processors, shipping services). These partners are required to protect your data under strict confidentiality.
 
-**2. Information We Don't Collect**
+4. Your Choices
+You may:
+- Edit or delete your profile at any time
+- Request data access or deletion (subject to legal exceptions)
+- Opt out of marketing communications
 
-We want you to know that Oninstore does not collect any personal information from you. We don't ask for your name, email address, phone number, or any other identifying data.
+5. Cookies and Analytics
+We may use cookies and analytics tools to improve the app and understand usage behavior.
 
-**3. No Payment Functionality**
+6. Data Security
+We implement strong security measures (encryption, secure servers) to protect your information. However, no system is 100% secure.
 
-Please be aware that Oninstore does not process payments. We don't request or store payment information, such as credit card details or banking information.
+7. Children’s Privacy
+Oninstore is not intended for children under 13. We do not knowingly collect data from minors.
 
-**4. Usage Information**
+8. International Users
+Your data may be stored or processed in countries outside of your own. We comply with data protection laws including GDPR where applicable.
 
-While we don't collect personal information, we may collect anonymous usage data to improve your experience and app performance. This data does not identify you personally.
+9. Changes to This Policy
+We may revise this Privacy Policy periodically. We'll notify you of material changes through the app.
 
-**5. Data Security**
-
-Although we don't collect personal data, we still take data security seriously. We employ standard security measures to protect any non-personal data you share with us.
-
-**6. Changes to This Policy**
-
-This Privacy Policy may be updated to reflect changes in our practices or for legal reasons. Any significant updates will be communicated within the app.
-
-**7. Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Contact Information:
-Email: 4iamalpha@gmail.com
+10. Contact Us
+For any privacy-related questions, email us at: support@oninstore.com
